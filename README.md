@@ -33,7 +33,7 @@ There was implemented `K-means` method from `sklearn.cluster`
 
 Using [The Elbow Method](https://en.wikipedia.org/wiki/Elbow_method_(clustering))  it was decided to divide customers into **4** clusters
 
-![data info](C:\Users\vvolodya\jupyter project\Customer Personality Analysis\2022-02-17 013553.png)
+![num of cluster](https://github.com/Vvold/Customer_Personality_Analysis/blob/master/num_of_cluster.png)
 
 ## Contacts
 
